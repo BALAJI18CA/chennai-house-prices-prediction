@@ -1,12 +1,12 @@
 # chennai-house-prices-prediction
 web app
-reqiurment
-    sklearn
-    matplotlib
-    numpy
-    pandas
-    heroku
-    streamlit
+reqiurment,
+    sklearn,
+    matplotlib,
+    numpy,
+    pandas,
+    heroku,
+    streamlit,
     seaborn
 
 Problem Statement
