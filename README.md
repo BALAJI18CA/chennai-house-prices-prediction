@@ -14,3 +14,5 @@ Real estate transactions are quite opaque sometimes and it may be difficult for 
 
 Minimum Requirements
 It is not sufficient to just fit a model - the model must be analysed to find the important factors that contribute towards the price. Also, it will be better to give a forecast range (range of permissible values) rather than a single estimate as it will help the customers to negotiate.
+![Screenshot 2022-10-31 112611](https://user-images.githubusercontent.com/99608924/198941271-d6f13e89-56f8-41b5-991b-40a55cfb6b54.png)
+![Screenshot 2022-10-31 112530](https://user-images.githubusercontent.com/99608924/198941293-b1bc25b9-513b-46bf-9f06-c085cc707627.png)
